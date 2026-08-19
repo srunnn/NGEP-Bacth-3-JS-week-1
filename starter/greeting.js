@@ -6,3 +6,10 @@ console.log("Hello, Git!");
 console.log("Lao Taisrun");
 
 // new change
+
+
+function sayGoodbye() {
+    console.log("Goodbye!")
+}
+
+sayGoodbye()
