@@ -13,3 +13,5 @@ function sayGoodbye() {
 }
 
 sayGoodbye()
+
+console.log("hi run")
